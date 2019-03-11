@@ -11,10 +11,10 @@ class RNAirView: UIView {
     }
     
     @objc func showMenu() {
-        let rect = CGRect(x: 10, y: 10, width: 100, height: 100)
+        let rect = CGRect(x: -100, y: -100, width: 0, height: 0)
         let airplayVolume = MPVolumeView(frame: rect)
-        airplayVolume.showsVolumeSlider = true
-        airplayVolume.showsRouteButton = true
+        airplayVolume.showsVolumeSlider = false
+        airplayVolume.showsRouteButton = false
         self.addSubview(airplayVolume)
         for view: UIView in airplayVolume.subviews {
             if let button = view as? UIButton {
