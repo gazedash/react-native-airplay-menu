@@ -2,7 +2,7 @@
   "name": "react-native-airplay-menu",
   "version": "1.0.4",
   "description": "RN module to open AirPlay menu imperatively",
-  "main": "lib/AirPlay.js",
+  "main": "lib/index.js",
   "files": [
     "/lib",
     "/ios"
