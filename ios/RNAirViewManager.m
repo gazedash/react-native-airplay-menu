@@ -1,5 +1,4 @@
 #import "React/RCTViewManager.h"
-#import "RCTViewManager.h"
 
 // the component will be exposed as "RNAirViewManager"
 // if the name ends with "Manager" it will be stripped by React Native
