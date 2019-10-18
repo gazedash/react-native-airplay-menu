@@ -4,6 +4,7 @@
   "description": "RN module to open AirPlay menu imperatively",
   "main": "lib/index.js",
   "files": [
+    "/RNReactNativeAirplayMenu.podspec",
     "/lib",
     "/ios"
   ],
