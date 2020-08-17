@@ -1,39 +1,39 @@
 {
-  "name": "react-native-airplay-menu",
-  "version": "1.0.12",
-  "description": "RN module to open AirPlay menu imperatively",
-  "main": "lib/index.js",
-  "files": [
-    "/lib",
-    "/ios"
-  ],
-  "directories": {
-    "example": "example",
-    "lib": "lib"
-  },
-  "dependencies": {},
-  "peerDependencies": {
-    "react": "16.8.4",
-    "react-native": "0.58.6"
-  },
-  "devDependencies": {},
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/gazedash/react-native-airplay-menu.git"
-  },
-  "keywords": [
-    "airplay",
-    "react-native",
-    "react",
-    "ios"
-  ],
-  "author": "Andrey Efremov",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/gazedash/react-native-airplay-menu/issues"
-  },
-  "homepage": "https://github.com/gazedash/react-native-airplay-menu#readme"
+	"name": "react-native-airplay-menu",
+	"version": "1.0.13",
+	"description": "RN module to open AirPlay menu imperatively",
+	"main": "lib/index.js",
+	"files": [
+		"/lib",
+		"/ios"
+	],
+	"directories": {
+		"example": "example",
+		"lib": "lib"
+	},
+	"dependencies": {},
+	"peerDependencies": {
+		"react": "16.8.4",
+		"react-native": "0.58.6"
+	},
+	"devDependencies": {},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/gazedash/react-native-airplay-menu.git"
+	},
+	"keywords": [
+		"airplay",
+		"react-native",
+		"react",
+		"ios"
+	],
+	"author": "Andrey Efremov",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/gazedash/react-native-airplay-menu/issues"
+	},
+	"homepage": "https://github.com/gazedash/react-native-airplay-menu#readme"
 }
